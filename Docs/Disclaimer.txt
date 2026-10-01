@@ -1,0 +1,39 @@
+By purchasing a design by NiteFox (NiteTower Design) you accept the following Disclaimer:
+
+Liability/Damages/Losses
+
+	Each release goes through a series of tests before been released and have been deemed fit for purpose. 
+
+	However, i accept no liability or responsibilty for your use of this skin including any damages or losses. You accept that the use of this skin is at your own risk and understand that you are responsible for your use of this skin.
+
+
+Browser Compatibility
+
+	Every skin is tested on a variety of browsers (including mobile) before been released to minimise any compatibility issues, however, due to the vast amount of browsers available which each have their own eco-system to output html,css and js it's near impossible guarantee that all elements of the skin will render or function perfectly or exactly the same in all browsers or devices.
+
+	Therefore, i offer no guarantee that this skin will render/function perfectly in every browser.
+
+
+CubeCart Compatibility
+
+	Each skin is provided with script compatibility details on the product page. I accept no responsibilty should you try and use the skin with a version of CubeCart thats not been tested and verified.
+
+ 
+
+Extension Support
+
+	Each skin is designed for the default version of CubeCart therefor no support is provided for the compatibility of any 3rd party extension (unless stated otherwise). 
+
+	In the event there is a conflict or compatibility issue with a 3rd party extension you should consult with the developer of the extension. If the developer is unable to assist you may consult with me however i offer no guarantees of solutions or fixes for 3rd Party Extension support.
+
+ 
+
+Skin/Support Availability 
+
+	I reserve the right to discontinue any skin and support for a skin at anytime. 
+
+	I will always provide a 30 Day notice period before discontinuing a skin or support.
+
+	 
+
+Any questions please get in touch by emailing  nitetowerdesign@gmail.com
