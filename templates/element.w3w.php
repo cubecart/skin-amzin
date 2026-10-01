@@ -1,22 +1,16 @@
 {*
- * Amzin CubeCart Template
+ * Amzin skin for CubeCart v6
  * ========================================
- * Amzin is a template developed by NiteFox
- * also known as NiteTower Design.
+ * CubeCart is a registered trade mark of CubeCart Limited
+ * Copyright CubeCart Limited 2026. All rights reserved.
+ * UK Private Limited Company No. 5323904
  * ========================================
- * Web:        https://www.facebook.com/CubeCartThemes
- * Email:      nitetowerdesign@gmail.com
- * License:    http://nitefox.x10host.com/license.html
- * Disclaimer: http://nitefox.x10host.com/disclaimer.html
- * ⚠ THE API NAMES BELOW ARE v5 (element.js_head.php loads
- * javascript-components@5.0.0) AND ARE NOT INTERCHANGEABLE WITH v3's:
- *   clip_to_country       underscores — the hyphenated form is ignored, so
- *                         suggestions silently stop being clipped
- *   selected_suggestion   the event; "select" never fires, which left the
- *                         posted field empty however the customer typed
- *   e.detail.suggestion.words   not e.detail
- *   initial_value         how an existing address is prefilled; the component
- *                         has no `value` attribute (that is internal state)
+ * Originally created by NiteFox (NiteTower Design) and
+ * transferred to CubeCart Limited in 2022.
+ * ========================================
+ * Web:   https://www.cubecart.com
+ * Email:  hello@cubecart.com
+ * License:  GPL-3.0 https://www.gnu.org/licenses/quick-guide-gplv3.html
  *}
 <what3words-autosuggest{if !empty($CONFIG.w3w_user_key)} api_key="{$CONFIG.w3w_user_key}"{/if} id="{$as_id}" initial_value="{$value}"></what3words-autosuggest>
 {* The component renders its OWN input and does not adopt a slotted one, so the

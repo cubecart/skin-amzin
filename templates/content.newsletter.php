@@ -1,13 +1,16 @@
 {*
- * Amzin CubeCart Template
+ * Amzin skin for CubeCart v6
  * ========================================
- * Amzin is a template developed by NiteFox 
- * also known as NiteTower Design.
+ * CubeCart is a registered trade mark of CubeCart Limited
+ * Copyright CubeCart Limited 2026. All rights reserved.
+ * UK Private Limited Company No. 5323904
  * ========================================
- * Web:        https://www.facebook.com/CubeCartThemes
- * Email:      nitetowerdesign@gmail.com
- * License:    http://nitefox.x10host.com/license.html
- * Disclaimer: http://nitefox.x10host.com/disclaimer.html
+ * Originally created by NiteFox (NiteTower Design) and
+ * transferred to CubeCart Limited in 2022.
+ * ========================================
+ * Web:   https://www.cubecart.com
+ * Email:  hello@cubecart.com
+ * License:  GPL-3.0 https://www.gnu.org/licenses/quick-guide-gplv3.html
  *}
 
 {if isset($CTRL_VIEW) && $CTRL_VIEW}
