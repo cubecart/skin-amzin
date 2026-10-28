@@ -282,7 +282,7 @@ jQuery(document).ready(function() {
             }
         },
         submitHandler: function(form) {
-            form.submit();
+            if (checkout_submit_once(form)) form.submit();
         }
     });
 
