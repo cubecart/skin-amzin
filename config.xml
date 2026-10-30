@@ -8,7 +8,7 @@
 			<original_name><![CDATA[amzin]]></original_name>
 			<display><![CDATA[Amzin]]></display>
 			<description><![CDATA[Amzin — 4 styles, fully responsive, Bootstrap-powered. Looks great on every device.]]></description>
-			<version>2.06</version>
+			<version>2.07</version>
 			<minVersion>6.0.0</minVersion>
 			<maxVersion>6.*.*</maxVersion>
 			<creator>CubeCart</creator>
