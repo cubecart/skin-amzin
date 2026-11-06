@@ -3014,3 +3014,11 @@ body.stream h1, body.stream h2, body.stream h3, body.stream p {
     color: #fff;
 }
 
+/* Descriptions saved before 6.7.0 carry an inline width and height: let the height follow the width the screen allows. */
+#product_info img[style*="height"]:not([style*="object-fit"]),
+#collapseInfo img[style*="height"]:not([style*="object-fit"]),
+#content_homepage img[style*="height"]:not([style*="object-fit"]),
+.cat-desc img[style*="height"]:not([style*="object-fit"]),
+.cleafix img[style*="height"]:not([style*="object-fit"]) {
+  height: auto !important;
+}
